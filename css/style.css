@@ -39,6 +39,8 @@ cursor: pointer;
 /* hero */
 .hero-title{
     color: var(--color-primary-light);
+    font-family: Poppins;
+    font-weight: 900;
 } 
 .hero-title .accent{    
     color:var(--color-brand);
